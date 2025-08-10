@@ -18,30 +18,31 @@ public class HolaJava {
         System.out.println("Lassie, Palomo y Cat te saludan 🐶🐶🐱");
     }
 }
+```
 
 ## 🐶 Explicación del código (narrada por Lassie)
 
 > ¡Guau! Soy **Lassie** y te explico qué hace tu primer programa en Java, con olor a croquetas y mucha emoción 🦴
 
-### 1) `public class HolaJava { ... }`
+### 1) ```public class HolaJava { ... }```
 Mi **casita de código** se llama `HolaJava`. En Java todo vive dentro de una **clase**.
 > Tip de Lassie: el archivo debe llamarse **HolaJava.java** para que no se confunda mi humano (el compilador).
 
-### 2) `public static void main(String[] args) { ... }`
+### 2) ```public static void main(String[] args) { ... }```
 Esta es la **puerta de entrada** del programa.  
 Cuando lo ejecutas, Java entra por aquí primero.
 > Es como cuando escucho la bolsa de croquetas: ¡aquí empieza la acción!
 
-### 3) `System.out.println("¡Hola, mundo!");`
+### 3) ```System.out.println("¡Hola, mundo!");```
 Es un **ladrido en pantalla**.  
 `println` imprime el mensaje y **salta a la siguiente línea**.
 > El `;` es mi “listo, siguiente truco”.
 
-### 4) `System.out.println("Lassie, Palomo y Cat te saludan 🐶🐶🐱");`
+### 4) ```System.out.println("Lassie, Palomo y Cat te saludan 🐶🐶🐱");```
 Otro ladrido más, ahora saludando a mi manada.  
 Por eso verás **dos líneas** de salida.
 
-### 5) `{` y `}`
+### 5) ```{` y `}```
 Son las **vallas del patio**: marcan dónde empiezan y terminan la clase y el método.
 
 ---
@@ -50,9 +51,10 @@ Son las **vallas del patio**: marcan dónde empiezan y terminan la clase y el m�
 
 Guarda el archivo como **HolaJava.java**, abre una terminal en esa carpeta y corre:
 
-```bash
+```bash ```
 javac HolaJava.java
 java HolaJava
+```
 
 ## Mini reto de Lassie 🦴
 
