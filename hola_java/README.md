@@ -58,8 +58,16 @@ javac HolaJava.java
 ---
 ## Mini reto de Lassie 🦴
 
-- Cambia los mensajes para que yo ladre tu nombre.
+**Objetivo:** Agrega una tercera línea que imprima:
+`Palomo y Cat también están listos 🐶🐱`
 
-- Agrega otro System.out.println(...) con tu comida favorita (yo voto por croquetas).
+**Pista:** Recuerda que es `System.out.println` (con **n** al final).
 
-- ¿Te animas a probar print (sin ln) y ver cómo quedan en la misma línea?
+```java
+public class HolaJava {
+    public static void main(String[] args) {
+        System.out.println("¡Hola, mundo!");
+        System.out.println("Lassie, Palomo y Cat te saludan 🐶🐶🐱");
+        //  Escribe aquí tu nuevo println
+    }
+}
