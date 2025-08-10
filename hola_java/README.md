@@ -22,7 +22,7 @@ public class HolaJava {
 
 ## 🐶 Explicación del código (narrada por Lassie)
 
-> ¡Guau! Soy **Lassie** y te explico qué hace tu primer programa en Java, con olor a croquetas y mucha emoción 🦴
+¡Guau! Soy **Lassie** y te explico qué hace tu primer programa en Java, con olor a croquetas y mucha emoción 🦴
 
 ### 1) ```public class HolaJava { ... }```
 Mi **casita de código** se llama `HolaJava`. En Java todo vive dentro de una **clase**.
@@ -53,13 +53,13 @@ Guarda el archivo como **HolaJava.java**, abre una terminal en esa carpeta y cor
 
 ```bash ```
 javac HolaJava.java
-java HolaJava
-```
 
+
+---
 ## Mini reto de Lassie 🦴
 
-* Cambia los mensajes para que yo ladre tu nombre.
+- Cambia los mensajes para que yo ladre tu nombre.
 
-* Agrega otro System.out.println(...) con tu comida favorita (yo voto por croquetas).
+- Agrega otro System.out.println(...) con tu comida favorita (yo voto por croquetas).
 
-* ¿Te animas a probar print (sin ln) y ver cómo quedan en la misma línea?
+- ¿Te animas a probar print (sin ln) y ver cómo quedan en la misma línea?
