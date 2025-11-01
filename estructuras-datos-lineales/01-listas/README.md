@@ -29,3 +29,8 @@ public class EjemploArrayList {
         }
     }
 }
+```
+## 📝 Explicación de Lassie
+
+Cada vez que usamos add, agregamos una nueva croqueta (dato) a la lista.
+El bucle for nos permite recorrer todas las croquetas una por una 🐾.
