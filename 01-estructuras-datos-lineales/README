@@ -1,0 +1,92 @@
+# 🐶 Lassie te explica: **Estructuras de Datos**  
+### ¡Con la historia de Ana, pilas, colas, listas y mucha motivación para tu carrera!
+
+## 🐾 La historia comienza con Ana…
+Mi humana **Ana**, cuando recién empezaba su carrera en tecnología, recibió una de esas tareas que asustan más que un baño sorpresa:  
+**“Aprende Estructuras de Datos”.**
+
+Ana veía nombres como *listas, pilas y colas* y pensaba:  
+> “¿Por qué suena todo tan complicado?”
+
+Pasó días intentando descifrar para qué servía cada una. Y aunque le costó trabajo, nunca dejó de intentarlo.  
+Yo —Lassie— siempre la acompañé. Me acostaba a su lado, escuchaba sus dudas y, a mi manera perruna, también la ayudaba a aprender.
+
+Ahora quiero ayudarte a ti, igual que ayudé a Ana.  
+Respira, ponte cómodo… y vamos juntas/os.
+
+---
+
+## 🧠 ¿Qué son las estructuras de datos? (según Lassie 🐶)
+
+Imagina que tienes MUCHAS croquetas.  
+Puedes guardarlas en distintos tipos de recipientes:
+
+- una caja donde metes y sacas de cualquier parte,  
+- una torre donde solo sacas las de hasta arriba,  
+- o una fila donde cada quien espera su turno.
+
+Cada uno organiza tus croquetas de forma distinta.  
+**Eso mismo ocurre en programación.**
+
+Las *estructuras de datos* son **formas de organizar y manejar información**.  
+Te ayudan a guardar, ordenar, buscar y procesar datos de manera eficiente.  
+Son como elegir el mejor tipo de recipiente para no hacer un desastre en la cocina.
+
+---
+
+## 🧩 ¿Por qué es importante conocerlas?
+
+Porque sin ellas, tu código puede volverse:
+
+- lento,  
+- desordenado,  
+- difícil de mantener,  
+- y peor… impredecible. 😱
+
+Pero cuando entiendes las estructuras de datos:
+
+✔ Tu lógica se vuelve más clara  
+✔ Tus programas funcionan más rápido  
+✔ Puedes resolver problemas complejos sin morir en el intento  
+✔ Entiendes cómo trabajan las herramientas que ya usas (listas, arrays, maps...)  
+✔ ¡Piensas como una verdadera persona desarrolladora!
+
+Y créeme… todo programador que admires domina este tema.
+
+---
+
+## 📁 ¿Qué encontrarás en esta carpeta?
+
+Aquí vamos a estudiar tres de las estructuras más importantes en el mundo Java:
+
+### 📌 1. Listas  
+Donde puedes guardar muchos elementos y acceder a ellos por posición.  
+Perfectas para guardar tu lista de tareas, nombres, productos… ¡lo que sea!
+
+### 📚 2. Pilas (Stacks)  
+Funcionan como una torre de juguetes o galletas:  
+**El último que colocas es el primero que sacas.**  
+Ideal para deshacer acciones, memorizar pasos, o manejar llamadas a métodos.
+
+### 🚦 3. Colas (Queues)  
+Como una fila para entrar al cine:  
+**El primero que llega es el primero en salir.**  
+Se usa muchísimo en sistemas de procesos, videojuegos, servidores y más.
+
+Cada sección vendrá con ejemplos simples, analogías divertidas y ejercicios para que lo entiendas sin complicarte.
+
+---
+
+## 🐶 Mensaje de motivación de Lassie
+
+> *“No te preocupes si al principio no entiendes todo. Ningún cachorro aprende a correr desde el primer día. Aprender programación lleva tiempo, práctica y constancia.  
+Yo vi a Ana frustrarse, llorar, avanzar y volver a intentarlo… y hoy, mírala: no solo lo logró, ¡también tú lo harás!  
+Yo voy contigo en cada paso. Toma aire, confía en ti y sigue adelante. ¡Tú puedes!”* 🐾
+
+---
+
+## 🌟 ¡Sigue explorando, futuro/a desarrollador/a!  
+Aprender estructuras de datos es una de las mejores decisiones para tu carrera.  
+Aquí comienza tu camino, y cada carpeta te llevará un paso más lejos.
+
+¡Vamos juntas/os! 💛🐶
