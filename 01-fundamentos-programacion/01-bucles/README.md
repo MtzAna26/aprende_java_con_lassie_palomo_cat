@@ -88,3 +88,44 @@ Se usa cuando **sabes cuántas veces** quieres repetir algo.
 > Imagina decir:
 > “Repite esto 5 veces”
 ----
+
+## 💎 while
+Se usa cuando *no sabes cuantas veces*, pero sí *cuando parar*.
+
+> Imagina decir:
+> "Repite mientras la puerta esté abierta"
+
+----
+## 💎 do-while
+Es como *while*, pero se *ejecuta al menos una vez*.
+
+> Imagina decir:
+> "Hazlo una vez, y luego decide si continúas"
+
+----
+### 📂 ¿Qué encontrarás en esta carpeta?
+
+✔ Ejemplos claros de for, while y do-while
+✔ Ejercicios sencillos
+✔ Casos prácticos
+✔ Errores comunes y cómo evitarlos
+
+Todo pensado para aprender sin prisa, pero con sentido.
+
+----
+### 🎯 ¿Por qué aprender bucles antes de estructuras de datos?
+
+Porque: 
+- Las estructuras se recorren con bucles.
+- Pilas y colas usan bucles
+- Árboles y grafos también:
+
+> Cat lo dice claro:
+> Sin bucles, las estructuras no se mueven.
+
+----
+### 🐱 Mensaje motivador de Cat
+> Programar no es escribir muchas líneas,
+> es enselar a la computadora a repetir bien.✍️
+>
+> Cuando dominas los bucles, el código empieza a obedecer con elegancia.
